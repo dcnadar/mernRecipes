@@ -8,8 +8,8 @@ const RecipeSearch = () => {
     const [selectedRecipe, setSelectedRecipe] = useState(null);
     const [modalIsOpen, setModalIsOpen] = useState(false);
 
-    const ID = "05cc201c";
-    const key = "5525a7f636a3075ed19c47134a0be3b9";
+    const ID = " use your id here";
+    const key = " use your key here ";
 
     const searchRecipes = async () => {
         try {
